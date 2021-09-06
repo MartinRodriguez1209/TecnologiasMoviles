@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
         var contador = 0 //contador auxiliar
         lateinit var toast: Toast //creo mi toast
 
+
         //asociacion a variables declaradas
         mi_boton = findViewById(R.id.boton)
         texto = findViewById(R.id.textView)
