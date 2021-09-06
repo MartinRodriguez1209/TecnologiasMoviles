@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Actividad</string>
+    <string name="holamundo">Se presiono el boton %1$d !</string>
+    <string name="snack_text">se creo una snackbar</string>
+    <string name="toast_onCreate">toast on create</string>
+    <string name="toast_boton">toast del boton</string>
+    <string name="toast_onPause">toast de onPause</string>
+    <string name="title_boton">Titulo nuevo</string>
+    <string name="snackbar_texto">se creo un snackbar</string>
+</resources>
