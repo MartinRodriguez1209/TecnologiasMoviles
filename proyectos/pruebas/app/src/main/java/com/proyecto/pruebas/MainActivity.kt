@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         lateinit var mi_boton: Button //creo mi boton
         lateinit var texto: TextView  //creo mi textview a mostrar
         var contador = 0 //contador auxiliar
+
         lateinit var toast: Toast //creo mi toast
 
 
