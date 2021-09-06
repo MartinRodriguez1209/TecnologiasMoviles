@@ -11,4 +11,8 @@
     <string name="toast_cambio_activity">se cambio de activity</string>
     <string name="primer_boton">pruebas</string>
     <string name="segundo_boton">Cambio de Activity</string>
+    <string name="editText_nombre">Nombre</string>
+    <string name="editText_apellido">Apellido</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="snackbar_texto_vacio">ingrese su nombre y apellido</string>
 </resources>

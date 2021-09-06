@@ -3,17 +3,16 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
 
-    <Switch
-        android:id="@+id/switch1"
+    <TextView
+        android:id="@+id/textView2_nombre_apellido"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="106dp"
-        android:layout_marginTop="184dp"
-        android:layout_marginBottom="499dp"
-        android:minHeight="48dp"
-        android:text="@string/switch_texto"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="27dp"
+        android:text=""
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
